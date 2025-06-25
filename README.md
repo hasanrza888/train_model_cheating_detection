@@ -14,11 +14,17 @@ This project demonstrates the development of a smart system that detects cheatin
 
 📦 Exam-Cheating-Detection
  ┣ 📂 demo_video/                 # Sample video used for simulation
+ 
  ┣ 📂 training_results/          # Training results (graphs, metrics, curves)
+ 
  ┣ 📂 model/                     # Final YOLOv11 trained weights (.pt)
+ 
  ┣ 📜 inference_demo.ipynb       # Notebook for demo testing with video
+ 
  ┣ 📜 training_notebook.ipynb    # Full notebook used to train the YOLOv11 model
+ 
  ┗ 📜 README.md                  # This file
+ 
 
 📊 Key Results
     Precision: 0.596
